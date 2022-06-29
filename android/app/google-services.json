@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "8419353826",
+    "project_id": "safar-car-booking",
+    "storage_bucket": "safar-car-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8419353826:android:ee1ad043bbe671c4e5aabb",
+        "android_client_info": {
+          "package_name": "com.sufercab.carbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8419353826-9o92vg0kv4rflbbmur470vgq0ilknrus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sufercab.carbooking",
+            "certificate_hash": "abfe30bb707a917718948470ad70a3f3403bc4f5"
+          }
+        },
+        {
+          "client_id": "8419353826-pnj8vnfb4jdhsga30pgrpsis1ddrcekd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuYm8Nx0iUFaRuk-jLWHSTWvkvNKt7VBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8419353826-pnj8vnfb4jdhsga30pgrpsis1ddrcekd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
