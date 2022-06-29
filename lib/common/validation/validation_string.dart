@@ -1,0 +1,19 @@
+const String error_required_email = "Please Enter Email";
+const String error_required_password = "Please Enter Password";
+const String error_minimum_6_character = "Please Enter Minimum 6 Character";
+const String error_valid = "";
+const String error_valid_email = "Email must be valid";
+const String error_required_firm = "Please Enter Firm Name";
+const String error_required_vendor = "Please Enter Vendor Name";
+const String error_required_address = "Please Enter Office Address";
+const String error_required_mobile_number = "Please Enter Mobile Number";
+const String error_valid_mobile_number = "Please Enter Valid Mobile Number";
+const String error_required_confirm_password = "Please Enter Confirm Password";
+const String error_password_confirm_must_be_valid =
+    "Password and Confirm Password Must be Same";
+const String error_required_driver_name = "Please Enter Driver Name";
+const String error_required_licence_number = "Please Enter Licence Number";
+const String error_required_car_type = "Please Enter Car Type";
+const String error_required_car_brand = "Please Enter Car Brand";
+const String error_required_car = "Please Enter Car";
+const String error_required_seating_capacity = "Please Enter Seating Capacity";
